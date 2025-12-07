@@ -5,8 +5,8 @@
   "defaultMode": "window",
   "port": 0,
 
-  "documentRoot": "/resources/",
-  "url": "/index.html",
+  "documentRoot": "resources/",
+  "url": "index.html",
 
   "enableServer": true,
   "enableNativeAPI": true,
@@ -26,7 +26,7 @@
       "height": 800,
       "center": true,
 
-      "icon": "",
+      "icon": "resources/icons/appIcon.png",
 
       "enableInspector": true
     }
